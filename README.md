@@ -32,10 +32,10 @@ This project is a Node.js application for user registration and authentication, 
         ); ]
 
 - Edit in db.js
-    host:"localhost",
-    user:"your user name",
-    password:"your password",
-    database: "registration"
+    - host:"localhost",
+    - user:"your user name",
+    - password:"your password",
+    - database: "registration"
 
 -----------------------------------------------------------------------------------------------
 
