@@ -27,8 +27,7 @@ This project is a Node.js application for user registration and authentication, 
         email VARCHAR(255) NOT NULL UNIQUE,
         password VARCHAR(255) NOT NULL,
         role VARCHAR(50) NOT NULL,
-        isVerified BOOLEAN DEFAULT false,
-        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        is_verified BOOLEAN DEFAULT false
         ); ]
 
 - Edit in db.js
