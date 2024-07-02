@@ -68,6 +68,5 @@ This project is a Node.js application for user registration and authentication, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Jyoti-Mahto/Node_Task.git
 
